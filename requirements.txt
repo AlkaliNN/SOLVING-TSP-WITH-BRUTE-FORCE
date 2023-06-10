@@ -1,0 +1,5 @@
+folium                        0.14.0
+mkl-random                    1.2.2
+mpmath                        1.2.1
+pandas                        1.4.4
+sphinxcontrib-jsmath          1.0.1
